@@ -1,0 +1,14 @@
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\n11proje.exe
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\n11proje.deps.json
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\n11proje.runtimeconfig.json
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\n11proje.runtimeconfig.dev.json
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\n11proje.dll
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\n11proje.pdb
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\nunit.framework.dll
+D:\c#\seleinum\n11proje\bin\Release\netcoreapp3.1\WebDriver.dll
+D:\c#\seleinum\n11proje\obj\Release\netcoreapp3.1\n11proje.AssemblyInfoInputs.cache
+D:\c#\seleinum\n11proje\obj\Release\netcoreapp3.1\n11proje.AssemblyInfo.cs
+D:\c#\seleinum\n11proje\obj\Release\netcoreapp3.1\n11proje.csproj.CopyComplete
+D:\c#\seleinum\n11proje\obj\Release\netcoreapp3.1\n11proje.dll
+D:\c#\seleinum\n11proje\obj\Release\netcoreapp3.1\n11proje.pdb
